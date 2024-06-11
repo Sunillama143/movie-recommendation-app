@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.movie {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.movie img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.movie p {
+    margin: 0;
+}
